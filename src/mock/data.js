@@ -29,7 +29,7 @@ export const projectsData = [
   {
     id: uuidv1(),
     img: 'projeto_1.png',
-    title: '',
+    title: 'Minha logo',
     info: 'Este é um dos meus primeiros trabalhos, em breve muitos outros estarão disponíveis!',
     info2: '',
     url: '',
